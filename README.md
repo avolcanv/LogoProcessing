@@ -1,1 +1,3 @@
 # LogoProcessing
+
+Repositorio de prueba.
